@@ -1,2 +1,2 @@
-# oneneuron-revati66
+# oneneuron-revati
 perceptorns
